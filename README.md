@@ -78,6 +78,11 @@ If you don't know how to create the file, refer to the [previous step](#export-e
   <img src="docs/Import_bookmarks.gif"/>
 </p>
 
+## Application Directories
+* **App Data:** `\AppData\Roaming\AXXXAXDXX\BookmarkCurator`
+* **Previews:** `\AppData\Roaming\Bookmark Curator\previews`
+* **Logs:** `\AppData\Local\AXXXAXDXX\BookmarkCurator`
+
 ## Application Workflow
 
 ```mermaid
