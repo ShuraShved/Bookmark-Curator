@@ -15,7 +15,7 @@ To solve this problem and provide a smoother expirience this app allows you to i
 Double-click the executable file to launch the app.
 
 <p align="center">
-  <img src="docs/Open_app.gif" width="70%"/>
+  <img src="docs/Open_app.gif" width="80%"/>
 </p>
 
 
@@ -36,7 +36,7 @@ Paste the copied bookmarks into the input field and click the **Start** button.
 Bookmarks and folders will appear in the app window. A text file containing the parsed bookmarks will be created as `!edited_bookmarks.txt`.
 
 <p align="center">
-  <img src="docs/Start_action.gif" width="60%"/>
+  <img src="docs/Start_action.gif" width="75%"/>
 </p>
 
 ## Preview Bookmarks
@@ -67,7 +67,7 @@ Once you finish editing, click the **Save** button.
 A new file named `!edited_bookmarks.html` will be created. 
 
 <p align="center">
-  <img src="docs/Export_bookmarks.gif" width="60%"/>
+  <img src="docs/Export_bookmarks.gif" width="75%"/>
 </p>
 
 ## Import Bookmarks Back to Browser
