@@ -72,7 +72,7 @@ A new file named `!edited_bookmarks.html` will be created.
 
 ## Import Bookmarks Back to Browser
 You can import the edited bookmarks back into your browser by selecting the generated file. 
-If you don't know how to create the file, refer to the [previous step](#export-edited-bookmarks).
+If you don't know how to create one, refer to the [previous step](#export-edited-bookmarks).
 
 <p align="center">
   <img src="docs/Import_bookmarks.gif"/>
